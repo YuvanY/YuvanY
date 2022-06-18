@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YuvanY
-- 👀 I’m interested in MAKING WEBSITE
+- 👀 I’m interested in MAKING WEBSITES AND SOFTWARES
 - 🌱 I’m currently learning WEB DEVELOPMENT
-- 📫 How to reach me YUAVN.DEB@GMAIL.COM
+- 📫 How to reach me yuvan.deb@gmail.com
 
 <!---
 YuvanY/YuvanY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
